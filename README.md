@@ -4,8 +4,8 @@
   Sou um profissional em transição de carreira, migrando da área de Manutenção Aeronáutica para o universo de Tecnologia, com foco em **Desenvolvimento de Software** e **Banco de Dados**. Atualmente, estou aprimorando minhas habilidades para construir soluções robustas e eficientes.
 </p>
 
-- 🎓 Graduado como Tecnólogo em **Manutenção de Aeronaves**.
-- 📚 Estudando **Banco de Dados** e aprimorando meus conhecimentos em desenvolvimento backend.
+- 🎓 Graduado como Tecnólogo em Manutenção de Aeronaves.
+- 📚 Estudando Banco de Dados e aprimorando meus conhecimentos em desenvolvimento backend.
 - 🌱 Buscando minha primeira oportunidade para aplicar e expandir minhas habilidades como desenvolvedor.
 - 📍 Morando em São José dos Campos, SP - Brasil.
 
